@@ -1,0 +1,19 @@
+h1, h3 {
+    font-size: 60px;
+}
+
+.obwt {
+    background-color: orange;
+    color: white;
+}
+
+#redtext {
+    color: red;
+}
+
+table {
+    background-color: rgb(84, 84, 84);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
